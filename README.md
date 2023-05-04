@@ -1,18 +1,20 @@
-# Bertoti - Heuristicas
+# Bertoti - Heuristicas 💻
 
-## As Heuristicas de Nielsen são:
+## 🔹 As Heuristicas de Nielsen são:
 
-1- Ajuda e Documentação. </br>
-2- Auxiliar usuários a reconhecer, diagnosticar e recuperar erros; </br>
-3- Correspondência entre o sistema e o mundo real; </br>
-4- Consistência e padrões; </br>
-5- Estética e Design minimalista; </br>
-6- Flexibilidade e Eficiência; </br>
-7- Liberdade e controle do usuário; </br>
-8- Prevenção de erros; </br>
-9- Reconhecer ao invés de lembrar; </br>
-10- Visibilidade do status do sistema; </br>
+1º Ajuda e Documentação. </br>
+2º Auxiliar usuários a reconhecer, diagnosticar e recuperar erros; </br>
+3º Correspondência entre o sistema e o mundo real; </br>
+4º Consistência e padrões; </br>
+5º Estética e Design minimalista; </br>
+6º Flexibilidade e Eficiência; </br>
+7º Liberdade e controle do usuário; </br>
+8º Prevenção de erros; </br>
+9º Reconhecer ao invés de lembrar; </br>
+10º Visibilidade do status do sistema; </br>
 
-## Aplicação das Heuristicas no site: 
+## 🔹 Aplicação das Heuristicas no site: 
 
--> Siga FATEC
+### ![🛒🍉🥙 Supermercado DIA](https://www.dia.com.br/)
+
+5º Estética e Design minimalista: 
